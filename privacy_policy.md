@@ -56,13 +56,17 @@ dan diberi password sebelum Anda dapat mengaksesnya.
 internet.
 
 # Izin Aplikasi
+Berikut adalah beberapa izin aplikasi yang dibutuhkan agar anda dapat menggunakan layanan yang disediakan oleh aplikasi Clinic App Mobile dengan baik.
 
-● Notification: Kami meminta izin ini untuk mengirimkan notifikasi pengingat minum obat,
-notifikasi pesan dokter dan informasi terkait layanan kepada Anda.
+| Izin | Mengapa izin ini dibutuhkan |
+| :---: | --- |
+| `android.permission.SCHEDULE_EXACT_ALARM` | Hal ini diperlukan untuk menjadwalkan alarm dengan tepat waktu. Anda, sebagai pengguna, atau sistem, dapat mencabut izin ini kapan saja dari Pengaturan. Namun, mencabut izin ini akan mempengaruhi kerja layanan pada aplikasi yang membutuhkan izin ini, dan membatalkan semua alarm yang ditetapkan oleh aplikasi. |
+| `android.permission.WAKE_LOCK` | Diperlukan untuk menampilkan layar alarm saat alarm berdering. Izin secara otomatis diberikan oleh sistem; tidak dapat dicabut oleh pengguna. |
+| `android.permission.READ_EXTERNAL_STORAGE` | Izin ini utamanya digunakan untuk fitur download PDF rekam medis Anda. Sebagai pengguna, atau sistem, Anda dapat mencabut izin ini kapan saja dari pengaturan. Namun, mencabut izin akan mempengaruhi kerja layanan yang membutuhkan izin ini. |
+| `android.permission.WRITE_EXTERNAL_STORAGE` | Sama seperti READ_EXTERNAL_STORAGE, izin ini utamanya digunakan untuk fitur download PDF rekam medis. Sebagai pengguna, atau sistem, Anda dapat mencabut izin ini kapan saja dari pengaturan. Namun, mencabut izin akan mempengaruhi kerja layanan yang membutuhkan izin ini. |
+| `android.permission.RECEIVE_BOOT_COMPLETED` | Ketika perangkat Anda dihidupkan ulang, semua alarm yang diatur dalam sistem akan hilang. Izin ini memungkinkan aplikasi untuk menerima pesan dari sistem setelah sistem dinyalakan ulang dan Anda membuka kunci perangkat untuk pertama kalinya. Ketika pesan ini diterima, aplikasi akan membuat layanan untuk mengatur semua alarm yang aktif dalam sistem.|
 
-● Read & Write External Storage: Kami meminta izin ini untuk mengunduh dan
-menyimpan dokumen PDF hasil rekam medis di penyimpanan eksternal perangkat
-Anda.
+ <hr style="border:1px solid gray">
 
 # Pengungkapan kepada Pihak Ketiga
 Kami tidak akan membagikan, menjual, atau menyewakan informasi pribadi Anda kepada pihak
