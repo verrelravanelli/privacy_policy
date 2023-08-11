@@ -1,8 +1,8 @@
 
-# Kebijakan Privasi
+# Kebijakan Privasi Clinic App Mobile
 Terakhir diperbarui: 11 Agustus 2023
 
-Selamat datang di Aplikasi Clinic App Mobile. Kami berkomitmen untuk melindungi privasi Anda
+Selamat datang di kebijakan privasi Aplikasi Clinic App Mobile. Kami berkomitmen untuk melindungi privasi Anda
 sebagai pengguna aplikasi kami. Kebijakan privasi ini menjelaskan bagaimana kami
 mengumpulkan, menggunakan, dan melindungi informasi pribadi Anda ketika Anda
 menggunakan layanan kami. Dengan menggunakan aplikasi kami, Anda menyetujui praktik
@@ -29,21 +29,12 @@ nomor handphone, tanggal lahir atau informasi kontak lainnya.
 # Penggunaan Informasi
 Kami menggunakan informasi yang kami kumpulkan untuk:
 
-● Memberikan Layanan: Informasi Anda digunakan untuk menyediakan layanan reservasi
+● Memberikan Layanan: Informasi Anda digunakan untuk menyediakan berbagai layanan yang ada pada aplikasi seperti reservasi
 kunjungan, fitur chat dengan dokter, pengingat minum obat, serta layanan lainnya yang
 Anda gunakan.
 
 ● Komunikasi: Kami dapat menghubungi Anda untuk memberikan informasi terkait
 pembaruan, perubahan, atau layanan baru dalam aplikasi.
-
-# Izin Aplikasi
-
-● Notification: Kami meminta izin ini untuk mengirimkan notifikasi pengingat minum obat,
-notifikasi pesan dokter dan informasi terkait layanan kepada Anda.
-
-● Read & Write External Storage: Kami meminta izin ini untuk mengunduh dan
-menyimpan dokumen PDF hasil rekam medis di penyimpanan eksternal perangkat
-Anda.
 
 # Perlindungan Data dan Keamanan
 Kerahasiaan data pribadi Anda adalah hal yang terpenting, kami menjamin bahwa data dan
@@ -63,6 +54,15 @@ dan diberi password sebelum Anda dapat mengaksesnya.
 ● Keamanan Jaringan: Pengiriman data melalui jaringan dilakukan melalui koneksi TLS
 (Transport Layer Security) untuk memastikan keamanan saat data berpindah melalui
 internet.
+
+# Izin Aplikasi
+
+● Notification: Kami meminta izin ini untuk mengirimkan notifikasi pengingat minum obat,
+notifikasi pesan dokter dan informasi terkait layanan kepada Anda.
+
+● Read & Write External Storage: Kami meminta izin ini untuk mengunduh dan
+menyimpan dokumen PDF hasil rekam medis di penyimpanan eksternal perangkat
+Anda.
 
 # Pengungkapan kepada Pihak Ketiga
 Kami tidak akan membagikan, menjual, atau menyewakan informasi pribadi Anda kepada pihak
